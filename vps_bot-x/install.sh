@@ -1,6 +1,7 @@
-#!/bin/bash
-# -*- coding: utf-8 -*-
-# install.sh (V6.5.0 实验室优化版 - 适配 vps_bot-x)
+bash
+git clone https://github.com/MEILOI/VPS_BOT_X.git
+cd VPS_BOT_X/vps_bot-x
+bash install.sh
 
 # 定义颜色
 GREEN='\033[0;32m'
