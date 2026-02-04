@@ -143,7 +143,7 @@ cat > /usr/bin/kk <<EOFKK
 while true; do
     clear
     echo -e "\033[0;36m==============================\033[0m"
-    echo -e "     VPS 遥控器-X 控制台        "
+    echo -e "     VPS 遥控器-X 控制台 作者:thex       "
     echo -e "\033[0;36m==============================\033[0m"
     echo -e "  [1] 启动  [2] 重启  [3] 停止"
     echo -e "  [4] 日志  [5] 配置  [0] 退出"
