@@ -215,4 +215,6 @@ A: 配置文件和审计日志都保存在 `/root/`,重装系统前记得备份
 
 **🌟 Star History**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=MEILOI/VPS_BOT_X&type=Date)](https://star-history.com/#MEILOI/VPS_BOT_X&Date)
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=MEILOI/VPS_BOT_X&type=date&legend=top-left)](https://www.star-history.com/#MEILOI/VPS_BOT_X&type=date&legend=top-left)
